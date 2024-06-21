@@ -1,0 +1,1882 @@
+Corp Basic Actions
+Runner Basic Actions
+Corp Click Tracker
+Runner Click Tracker
+The Shadow: Pulling the Strings
+The Masque: Cyber General
+Wyvern: Chemically Enhanced
+Boris "Syfr" Kovac: Crafty Veteran
+Jamie "Bzzz" Micken: Techno Savant
+Strategic Innovations: Future Forward
+Synthetic Systems: The World Re-imagined
+Information Dynamics: All You Need To Know
+Fringe Applications: Tomorrow, Today
+Noise: Hacker Extraordinaire
+Déjà Vu
+Demolition Run
+Stimhack
+Cyberfeeder
+Grimoire
+Corroder
+Datasucker
+Djinn
+Medium
+Mimic
+Parasite
+Wyrm
+Yog.0
+Ice Carver
+Wyldside
+Gabriel Santiago: Consummate Professional
+Account Siphon
+Easy Mark
+Forged Activation Orders
+Inside Job
+Special Order
+Lemuria Codecracker
+Desperado
+Aurora
+Femme Fatale
+Ninja
+Sneakdoor Beta
+Bank Job
+Crash Space
+Data Dealer
+Decoy
+Kate "Mac" McCaffrey: Digital Tinker
+Diesel
+Modded
+The Maker's Eye
+Tinkering
+Akamatsu Mem Chip
+Rabbit Hole
+The Personal Touch
+The Toolbox
+Battering Ram
+Gordian Blade
+Magnum Opus
+Net Shield
+Pipeline
+Aesop's Pawnshop
+Sacrificial Construct
+Infiltration
+Sure Gamble
+Crypsis
+Access to Globalsec
+Armitage Codebusting
+Haas-Bioroid: Engineering the Future
+Accelerated Beta Test
+Adonis Campaign
+Aggressive Secretary
+Archived Memories
+Biotic Labor
+Shipment from MirrorMorph
+Heimdall 1.0
+Ichi 1.0
+Viktor 1.0
+Rototurret
+Corporate Troubleshooter
+Experiential Data
+Jinteki: Personal Evolution
+Nisei MK II
+Project Junebug
+Snare!
+Zaibatsu Loyalty
+Neural EMP
+Precognition
+Cell Portal
+Chum
+Data Mine
+Neural Katana
+Wall of Thorns
+Akitaro Watanabe
+NBN: Making News
+AstroScript Pilot Program
+Breaking News
+Anonymous Tip
+Closed Accounts
+Psychographics
+SEA Source
+Ghost Branch
+Data Raven
+Matrix Analyzer
+Tollbooth
+Red Herrings
+SanSan City Grid
+Weyland Consortium: Building a Better World
+Hostile Takeover
+Posted Bounty
+Security Subcontract
+Aggressive Negotiation
+Beanstalk Royalties
+Scorched Earth
+Shipment from Kaguya
+Archer
+Hadrian's Wall
+Ice Wall
+Shadow
+Research Station
+Priority Requisition
+Private Security Force
+Melange Mining Corp.
+PAD Campaign
+Hedge Fund
+Enigma
+Hunter
+Wall of Static
+Whizzard: Master Gamer
+Spinal Modem
+Imp
+Morning Star
+Cortez Chip
+Peacock
+ZU.13 Key Master
+The Helpful AI
+Plascrete Carapace
+Haas-Bioroid: Stronger Together
+Mandatory Upgrades
+Janus 1.0
+Ash 2X3ZB9CY
+Braintrust
+Snowflake
+Restructured Datapool
+TMI
+Project Atlas
+Caduceus
+Dracō
+Vamp
+Liberated Account
+Satellite Uplink
+e3 Feedback Implants
+Compromised Employee
+Notoriety
+Snowball
+Dyson Mem Chip
+Encryption Protocol
+Sherlock 1.0
+Jinteki: Replicating Perfection
+Fetal AI
+Trick of Light
+Sensei
+Big Brother
+ChiLo City Grid
+Power Grid Overload
+Amazon Industrial Zone
+Executive Retreat
+Freelancer
+Nerve Agent
+Joshua B.
+Emergency Shutdown
+Muresh Bodysuit
+Snitch
+Chaos Theory: Wünderkind
+Test Run
+Dinosaurus
+Personal Workshop
+Public Sympathy
+Project Vitruvius
+Viper
+Edge of World
+Sunset
+Marked Accounts
+Pop-up Window
+Woodcutter
+Commercialization
+Private Contracts
+Chimera
+Disrupter
+Force of Nature
+Scrubber
+Doppelgänger
+Crescentus
+Deus X
+All-nighter
+Inside Man
+Underworld Contact
+Green Level Clearance
+Hourglass
+Dedicated Server
+Bullfrog
+Uroboros
+Net Police
+Weyland Consortium: Because We Built It
+Government Contracts
+Tyrant
+Oversight AI
+False Lead
+Surge
+Xanadu
+Andromeda: Dispossessed Ristie
+Networking
+HQ Interface
+Pheromones
+Quality Time
+Replicator
+Creeper
+Kraken
+Kati Jones
+Eve Campaign
+Rework
+Whirlpool
+Hokusai Grid
+Data Hound
+Bernice Mai
+Salvage
+Simone Diego
+Foxfire
+Retrieval Run
+Darwin
+Data Leak Reversal
+Faerie
+Mr. Li
+Indexing
+R&D Interface
+Deep Thought
+New Angeles City Hall
+Eli 1.0
+Ruhr Valley
+Ronin
+Midori
+NBN: The World is Yours*
+Project Beale
+Midseason Replacements
+Flare
+Dedicated Response Team
+Burke Bugs
+Corporate War
+Cerebral Imaging: Infinite Frontiers
+Custom Biotics: Engineered for Success
+NEXT Design: Guarding the Net
+Director Haas' Pet Project
+Efficiency Committee
+Project Wotan
+Sentinel Defense Program
+Alix T4LB07
+Cerebral Overwriter
+Director Haas
+Haas Arcology AI
+Thomas Haas
+Bioroid Efficiency Research
+Successful Demonstration
+Heimdall 2.0
+Howler
+Ichi 2.0
+Minelayer
+Viktor 2.0
+Zed 1.0
+Awakening Center
+Tyr's Hand
+Gila Hands Arcology
+Levy University
+Server Diagnostics
+Bastion
+Datapike
+Rielle "Kit" Peddler: Transhuman
+The Professor: Keeper of Knowledge
+Exile: Streethawk
+Escher
+Exploratory Romp
+Freelance Coding Contract
+Scavenge
+Levy AR Lab Access
+Monolith
+Feedback Filter
+Clone Chip
+Omni-drive
+Atman
+Cloak
+Dagger
+Chakana
+Cyber-Cypher
+Paricia
+Self-modifying Code
+Sahasrara
+Inti
+Professional Contacts
+Borrowed Satellite
+Ice Analyzer
+Dirty Laundry
+Daily Casts
+Same Old Thing
+The Source
+Frame Job
+Pawn
+Rook
+Hostage
+Gorman Drip v1
+Lockpick
+False Echo
+Motivation
+John Masanori
+Project Ares
+NEXT Bronze
+Celebrity Gift
+Himitsu-Bako
+Character Assassination
+Jackson Howard
+Invasion of Privacy
+Geothermal Fracking
+Swarm
+Cyberdex Trial
+Grim
+Bishop
+Scheherazade
+Hard at Work
+Recon
+Copycat
+Leviathan
+Eureka!
+Record Reconstructor
+Prepaid VoicePAD
+Wotan
+Hellion Alpha Test
+Clone Retirement
+Swordsman
+Shipment from SanSan
+Muckraker
+The Cleaners
+Elizabeth Mills
+Off the Grid
+Profiteering
+Restructure
+Reina Roja: Freedom Fighter
+Deep Red
+Knight
+Running Interference
+Expert Schedule Analyzer
+Grifter
+Torch
+Woman in the Red Dress
+Raymond Flint
+Isabel McGuire
+Hudson 1.0
+Accelerated Diagnostics
+Unorthodox Predictions
+Sundew
+City Surveillance
+Snoop
+Ireress
+Power Shutdown
+Paper Wall
+Interns
+Keyhole
+Activist Support
+Lawyer Up
+Leverage
+Garrote
+LLDS Processor
+Sharpshooter
+Capstone
+Starlight Crusade Funding
+Rex Campaign
+Fenris
+Panic Button
+Shock!
+Tsurugi
+TGTBT
+Sweeps Week
+RSVP
+Curtain Wall
+Punitive Counterstrike
+Veterans Program
+Quest Completed
+Hemorrhage
+Tallie Perrault
+Executive Wiretaps
+Blackguard
+CyberSolutions Mem Chip
+Alpha
+Omega
+Blackmail
+Blue Level Clearance
+Strongbox
+Toshiyuki Sakai
+Yagura
+Restoring Face
+Market Research
+Wraparound
+GRNDL: Power Unleashed
+Vulcan Coverup
+GRNDL Refinery
+Subliminal Messaging
+Singularity
+Queen's Gambit
+Dyson Fractal Generator
+Silencer
+Savoir-faire
+Fall Guy
+Power Nap
+Paintbrush
+Lucky Find
+Gyri Labyrinth
+Reclamation Order
+Broadcast Square
+Corporate Shuffle
+Caprice Nisei
+Shinobi
+Marker
+Hive
+Witness Tampering
+NAPD Contract
+Quandary
+Harmony Medtech: Biomedical Pioneer
+Nisei Division: The Next Generation
+Tennin Institute: The Secrets Within
+House of Knives
+Medical Breakthrough
+Philotic Entanglement
+The Future Perfect
+Chairman Hiro
+Mental Health Clinic
+Psychic Field
+Shi.Kyū
+Tenma Line
+Cerebral Cast
+Medical Research Fundraiser
+Mushin No Shin
+Inazuma
+Komainu
+Pup
+Shiro
+Susanoo-no-Mikoto
+NeoTokyo Grid
+Tori Hanzō
+Plan B
+Guard
+Rainbow
+Diversified Portfolio
+Fast Track
+Iain Stirling: Retired Spook
+Ken "Express" Tenma: Disappeared Clone
+Silhouette: Stealth Operative
+Calling in Favors
+Early Bird
+Express Delivery
+Feint
+Legwork
+Planned Assault
+Logos
+Public Terminal
+Unregistered S&W '35
+Window
+Alias
+Breach
+Bug
+Gingerbread
+Grappling Hook
+Passport
+Push Your Luck
+Security Testing
+Theophilius Bagbiter
+Tri-maf Contact
+Mass Install
+Q-Coherence Chip
+Overmind
+Oracle May
+Donut Taganes
+Domestic Sleepers
+NEXT Silver
+Lotus Field
+Mutate
+Near-Earth Hub: Broadcast Center
+Primary Transmission Dish
+Midway Station Grid
+The Root
+Taurus
+Mother Goddess
+Galahad
+Bad Times
+Cyber Threat
+Lamprey
+Paper Tripping
+Power Tap
+Nasir Meidan: Cyber Explorer
+Social Engineering
+Leprechaun
+Eden Shard
+The Foundry: Refining the Process
+Enhanced Login Protocol
+Heinlein Grid
+Encrypted Portals
+Cerebral Static
+Targeted Marketing
+Information Overload
+Paywall Implementation
+Sealed Vault
+Eden Fragment
+Lag Time
+Will-o'-the-Wisp
+D4v1d
+Scrubbed
+Three Steps Ahead
+Unscheduled Maintenance
+Cache
+Net Celebrity
+LLDS Energy Regulator
+Ghost Runner
+IQ
+Eliza's Toybox
+Kitsune
+Port Anson Grid
+The News Now Hour
+Manhunt
+Wendigo
+Crisium Grid
+Chronos Project
+Shattered Remains
+Lancelot
+Quetzal: Free Spirit
+BlacKat
+Duggar's
+Box-E
+The Supplier
+Refractor
+Order of Sol
+Hades Shard
+Rachel Beckman
+Architect
+Peak Efficiency
+Labyrinthine Servers
+Ashigaru
+Mamba
+Reversed Accounts
+Universal Connectivity Fee
+Blue Sun: Powering the Future
+Changeling
+Reuse
+Hades Fragment
+Docklands Crackdown
+Inject
+Origami
+Fester
+Autoscripter
+Switchblade
+Trade-In
+Astrolabe
+Angel Arena
+Bifrost Array
+Sagittarius
+Hostile Infrastructure
+Gemini
+License Acquisition
+Daily Business Show
+Superior Cyberwalls
+Executive Boot Camp
+Lycan
+Snatch and Grab
+Merlin
+Shell Corporation
+Ekomind
+Cerberus "Cuj.0" H3
+Leela Patel: Trained Pragmatist
+Cerberus "Rex" H2
+Zona Sul Shipping
+Cybsoft MacroDrive
+Cerberus "Lady" H1
+Utopia Shard
+Helium-3 Deposit
+Errand Boy
+IT Department
+Markus 1.0
+Industrial Genomics: Growing Solutions
+Turtlebacks
+Shoot the Moon
+Troll
+Virgo
+Utopia Fragment
+Excalibur
+Self-destruct
+Incubator
+Ixodidae
+Code Siphon
+Collective Consciousness
+Sage
+Bribery
+Au Revoir
+Earthrise Hotel
+Argus Security: Protection Guaranteed
+Gagarin Deep Space: Expanding the Horizon
+Titan Transnational: Investing In Your Future
+Firmware Updates
+Glenn Station
+Government Takeover
+High-Risk Investment
+Constellation Protocol
+Mark Yale
+Space Camp
+The Board
+Asteroid Belt
+Wormhole
+Nebula
+Orion
+Builder
+Checkpoint
+Fire Wall
+Searchlight
+Housekeeping
+Patch
+Traffic Accident
+Satellite Grid
+The Twins
+Sub Boost
+Dedicated Technician Team
+Cyberdex Virus Suite
+Edward Kim: Humanity's Hammer
+MaxX: Maximum Punk Rock
+Valencia Estevez: The Angel of Cayambe
+Amped Up
+I've Had Worse
+Itinerant Protesters
+Showing Off
+Wanton Destruction
+Day Job
+Forked
+Knifed
+Spooned
+Eater
+Gravedigger
+Hivemind
+Progenitor
+Archives Interface
+Chop Bot 3000
+MemStrips
+Vigil
+Human First
+Investigative Journalism
+Sacrificial Clone
+Stim Dealer
+Virus Breeding Ground
+Uninstall
+Qianju PT
+Data Folding
+Clot
+Paige Piper
+Adjusted Chronotype
+Spike
+Enhanced Vision
+Gene Conditioning Shoppe
+Synthetic Blood
+Traffic Jam
+Symmetrical Visage
+Brain-Taping Warehouse
+NEXT Gold
+Jinteki Biotech: Life Imagined
+Genetic Resequencing
+Cortex Lock
+Valley Grid
+Bandwidth
+Predictive Algorithm
+Capital Investors
+Negotiator
+Tech Startup
+Hacktivist Meeting
+Off-Campus Apartment
+Career Fair
+Dorm Computer
+Hayley Kaplan: Universal Scholar
+Game Day
+Comet
+Study Guide
+London Library
+Tyson Observatory
+Beach Party
+Research Grant
+Turing
+Crick
+Recruiting Trip
+Blacklist
+Gutenberg
+Student Loans
+Meru Mati
+Breaker Bay Grid
+Immolation Script
+Skulljack
+Turntable
+Chrome Parlor
+Titanium Ribs
+Crowbar
+Net-Ready Eyes
+Analog Dreamers
+Brain Cage
+Cybernetics Division: Humanity Upgraded
+Self-Destruct Chips
+Lab Dog
+Oaktown Grid
+Ryon Knight
+Clairvoyant Monitor
+Lockdown
+Little Engine
+Oaktown Renovation
+Corporate Town
+Quicksand
+Faust
+Street Peddler
+Armand "Geist" Walker: Tech Lord
+Drive By
+Forger
+Shiv
+Gang Sign
+Muertos Gang Member
+Chameleon
+Hyperdriver
+Test Ground
+Defective Brainchips
+Allele Repression
+Marcus Batty
+Exposé
+Pachinko
+Underway Renovation
+Contract Killer
+Spiderweb
+Underway Grid
+Trope
+Spoilers
+Drug Dealer
+Rolodex
+Fan Site
+Film Critic
+Paparazzi
+Ronald Five
+Enforcer 1.0
+It's a Trap!
+An Offer You Can't Refuse
+Haarpsichord Studios: Entertainment Unleashed
+Award Bait
+Explode-a-palooza
+Early Premiere
+Casting Call
+Old Hollywood Grid
+Hollywood Renovation
+Back Channels
+Vanity Project
+Power to the People
+Surfer
+DDoS
+Laramy Fisk: Savvy Investor
+Fisk Investment Seminar
+Bookmark
+DaVinci
+Wireless Net Pavilion
+Cybernetics Court
+Team Sponsorship
+Chronos Protocol: Selective Mind-mapping
+Ancestral Imager
+Genetics Pavilion
+Franchise City
+Product Placement
+Worlds Plaza
+Public Support
+Tour Guide
+Expo Grid
+The Future is Now
+SYNC: Everything, Everywhere
+New Angeles Sol: Your News
+Spark Agency: Worldswide Reach
+15 Minutes
+Improved Tracers
+Rebranding Team
+Quantum Predictive Model
+Lily Lockwell
+News Team
+Shannon Claire
+Victoria Jenkins
+Reality Threedee
+Archangel
+News Hound
+Resistor
+Special Offer
+TL;DR
+Turnpike
+24/7 News Cycle
+Ad Blitz
+Media Blitz
+The All-Seeing I
+Surveillance Sweep
+Keegan Lane
+Rutherford Grid
+Global Food Initiative
+Launch Campaign
+Assassin
+Apex: Invasive Predator
+Apocalypse
+Prey
+Heartbeat
+Endless Hunger
+Harbinger
+Hunting Grounds
+Wasteland
+Adam: Compulsive Hacker
+Independent Thinking
+Brain Chip
+Multithreader
+Always Be Running
+Dr. Lovegood
+Neutralize All Threats
+Safety First
+Sunny Lebeau: Security Specialist
+Security Chip
+Security Nexus
+GS Striker M1
+GS Shrike M2
+GS Sherman M3
+Globalsec Security Clearance
+Jak Sinclair
+Employee Strike
+Windfall
+Technical Writer
+Run Amok
+Ramujan-reliant 550 BMI
+Street Magic
+High-Stakes Job
+Mongoose
+Jesminder Sareen: Girl Behind the Curtain
+Maya
+Panchatantra
+Artist Colony
+Chatterjee University
+Advanced Concept Hopper
+Vikram 1.0
+Heritage Committee
+Mumbad City Grid
+Kala Ghoda Real TV
+Interrupt 0
+Dedication Ceremony
+Mumba Temple
+Museum of History
+EMP Device
+Diwan
+CBI Raid
+Tech Trader
+NetChip
+Corporate Scandal
+Populist Rally
+Advanced Assembly Lines
+Lakshmi Smartfabrics
+Product Recall
+Pālanā Foods: Sustainable Growth
+Pālanā Agroplex
+Harvester
+Remote Data Farm
+Disposable HQ
+New Construction
+Mumbad Construction Co.
+Corporate Sales Team
+PAD Factory
+Political Graffiti
+Nero Severn: Information Broker
+Reflection
+Spy Camera
+Political Operative
+Sadyojata
+"Freedom Through Equality"
+Akshara Sareen
+Councilman
+Voting Machine Initiative
+Clone Suffrage Movement
+Bio-Ethics Association
+Political Dealings
+"Clones are not People"
+Sensie Actors Union
+Commercial Bankers Group
+Mumbad City Hall
+Bailiff
+Surat City Grid
+Making an Entrance
+Salsette Slums
+Exclusive Party
+Vamadeva
+Brahman
+Patron
+Sports Hopper
+Bazaar
+Personality Profiles
+Jeeves Model Bioroids
+Raman Rai
+Upayoga
+Aryabhata Tech
+Salem's Hospitality
+Executive Search Firm
+Indian Union Stock Exchange
+Cobra
+Localized Product Line
+Mumbad Virtual Tour
+The Noble Path
+Emptied Mind
+Information Sifting
+Out of the Ashes
+Liberated Chela
+Temple of the Liberated Mind
+Rebirth
+Guru Davinder
+The Turning Wheel
+Brainstorm
+Ravana 1.0
+Dedicated Neural Net
+Chetana
+Puppet Master
+Waiver
+Exchange of Information
+Red Tape
+Consulting Visit
+Vanilla
+Fear the Masses
+Aghora
+Bhagat
+The Black File
+The Price of Freedom
+Ankusa
+Rigged Results
+Magnet
+Lateral Growth
+Improved Protein Source
+Voter Intimidation
+Harishchandra Ent.: Where You're the Star
+Full Immersion RecStudio
+Ibrahim Salem
+Navi Mumbai City Grid
+Zealous Judge
+Election Day
+Subcontract
+Merger
+System Outage
+Null: Whistleblower
+GPI Net Tap
+Hernando Cortez
+Mirror
+Dai V
+Another Day, Another Paycheck
+Deuces Wild
+Injection Attack
+Fairchild 1.0
+Sherlock 2.0
+Hyoubu Research Facility
+Chrysalis
+Georgia Emelyov
+Watchdog
+Hard-Hitting News
+NBN: Controlling the Message
+Crisis Management
+Stock Buy-Back
+Sandburg
+Credit Crash
+Rumor Mill
+Nfr
+Paperclip
+Golden
+Temüjin Contract
+Khan: Savvy Skiptracer
+Data Breach
+Algo Trading
+Beth Kilrain-Chang
+Fairchild 2.0
+Aiki
+Enforcing Loyalty
+Hatchet Job
+Special Report
+C.I. Fund
+Liquidation
+Weyland Consortium: Builder of Nations
+Financial Collapse
+Prisec
+Obelus
+Black Orchestra
+Omar Keung: Conspiracy Theorist
+Peregrine
+Houdini
+Net Mercur
+Find the Truth
+First Responders
+Fairchild 3.0
+Ark Lockdown
+Hellion Beta Test
+Project Kusanagi
+DNA Tracker
+Jinteki: Potential Unleashed
+Alexa Belsky
+Observe and Destroy
+Service Outage
+BOOM!
+Door to Door
+Scarcity of Resources
+En Passant
+Frantic Coding
+The Gauntlet
+Saker
+Blockade Runner
+Ele "Smoke" Scovak: Cynosure of the Net
+Top Hat
+Blackstone
+Government Investigations
+Citadel Sanctuary
+Wetwork Refit
+Haas-Bioroid: Architects of Tomorrow
+Fumiko Yamamori
+Hasty Relocation
+Data Ward
+Drone Screen
+Chief Slee
+Bulwark
+Best Defense
+Preemptive Action
+MKUltra
+On the Lam
+Cold Read
+Equivocation
+Misdirection
+Reaver
+Interdiction
+Baba Yaga
+Fairchild
+Friends in High Places
+Manta Grid
+Mind Game
+Nihongai Grid
+IP Block
+Thoth
+Anson Rose
+Mausolus
+Sapper
+Show of Force
+Enforced Curfew
+Şifr
+Sūnya
+Recon Drone
+Tapwrm
+Tracker
+Aaron Marrón
+Encore
+Fawkes
+Peace in Our Time
+Sensor Net Activation
+Violet Level Clearance
+Chiyashi
+Psychokinesis
+Net Quarantine
+Herald
+Veritas
+Bryan Stinson
+NASX
+Macrophage
+Tribunal
+Pushing the Envelope
+Maw
+The Archivist
+Exploit
+Spot the Prey
+Bio-Modeled Network
+Network Exchange
+Mad Dash
+NEXT Wave 2
+Zed 2.0
+Defense Construct
+Synth DNA Modification
+Kakugo
+Net Analytics
+SYNC BRE
+Jemison Astronautics: Sacrifice. Audacity. Success.
+Quarantine System
+Oberth Protocol
+Khondi Plaza
+Signal Jamming
+Severnius Stim Implant
+Clan Vengeance
+Counter Surveillance
+Möbius
+Los: Data Hijacker
+System Seizure
+Customized Secretary
+Build Script
+Seidr Adaptive Barrier
+Nerine 2.0
+Load Testing
+Bloom
+Replanting
+CPC Generator
+Free Lunch
+MCA Informant
+Clyde Van Rite
+Watchtower
+Sacrifice
+Self-Adapting Code Wall
+Berserker
+Persephone
+Rubicon Switch
+Aeneas Informant
+Rosetta 2.0
+Adjusted Matrix
+Dedicated Processor
+Inversificator
+Dadiana Chacon
+NEXT Opal
+Bioroid Work Crew
+AgInfusion: New Miracles for a New World
+Bamboo Dome
+Ben Musashi
+Authenticator
+Henry Phillips
+Battlement
+Audacity
+Red Planet Couriers
+Owl
+Alice Merchant: Clan Agitator
+Jarogniew Mercs
+Māui
+Bug Out Bag
+Keros Mcintyre
+Daredevil
+Mass-Driver
+Warroid Tracker
+Loki
+Obokata Protocol
+Mirāju
+Shipment from Tennin
+Escalate Vitriol
+Reeducation
+Traffic Analyzer
+Meteor Mining
+Standoff
+Success
+Whampoa Reclamation
+Mass Commercialization
+Mars for Martians
+God of War
+Leave No Trace
+Rip Deal
+Flashbang
+Lean and Mean
+Maven
+Na'Not'K
+Bloo Moose
+O₂ Shortage
+Helheim Servers
+Mandatory Seed Replacement
+Water Monopoly
+Metamorph
+Data Loop
+Biased Reporting
+Open Forum
+Tithonium
+Transparency Initiative
+Rover Algorithm
+Mining Accident
+Respirocytes
+Salvaged Vanadis Armory
+Aumakua
+Caldera
+Diana's Hunt
+Reshape
+Dummy Box
+Corporate Defector
+CFC Excavation Contract
+MCA Austerity Policy
+Restore
+Breached Dome
+Sand Storm
+AR-Enhanced Security
+Rolling Brownout
+Threat Level Alpha
+Priority Construction
+Fractal Threat Matrix
+Conundrum
+Steve Cambridge: Master Grifter
+Brute-Force-Hack
+Spear Phishing
+SYN Attack
+Polyhistor
+Abagnale
+Lustig
+Demara
+Mammon
+Charlatan
+Maxwell James
+Ayla "Bios" Rahim: Simulant Specialist
+Careful Planning
+Deep Data Mining
+LLDS Memory Diamond
+Ubax
+Adept
+Savant
+Egret
+Dhegdheer
+Levy Advanced Research Lab
+Laguna Velasco District
+Process Automation
+Officer Frank
+Dean Lister
+Biometric Spoofing
+The Shadow Net
+Seidr Laboratories: Destiny Defined
+Brain Rewiring
+Elective Upgrade
+Successful Field Test
+Estelle Moon
+Marilyn Campaign
+Eli 2.0
+Executive Functioning
+Holmegaard
+Tapestry
+Ultraviolet Clearance
+Black Level Clearance
+Mason Bellamy
+Skorpios Defense Systems: Persuasive Power
+Armored Servers
+Illicit Sales
+Graft
+Illegal Arms Factory
+Mr. Stone
+Bloodletter
+Colossus
+Hailstorm
+Hortum
+Hunter Seeker
+K. P. Lynn
+Paper Trail
+Honeyfarm
+Long-Term Investment
+Weir
+IPO
+By Any Means
+Yusuf
+Zamba
+Puffer
+Lewi Guilherme
+Cyberdelia
+Upya
+Assimilator
+Asa Group: Security Through Vigilance
+Ikawah Project
+Najja 1.0
+Gene Splicer
+Mganga
+Genotyping
+Echo Chamber
+Self-Growth Program
+Calibration Testing
+Urban Renewal
+Wake Up Call
+Reconstruction Contract
+Acacia
+Plague
+Credit Kiting
+Wari
+Kabonesa Wu: Netspace Thrillseeker
+Takobi
+Kongamato
+Emergent Creativity
+RNG Key
+Nightdancer
+Jinja City Grid
+Aimor
+Bacterial Programming
+Jua
+Threat Assessment
+Economic Warfare
+Forced Connection
+SSL Endorsement
+NGO Front
+Distract the Masses
+eXer
+Friday Chip
+Crypt
+Corporate "Grant"
+No One Home
+Marathon
+Gbahali
+White Hat
+Kuwinda K4H1U3
+NEXT Sapphire
+Anansi
+Code Replicator
+Reverse Infection
+Azmari EdTech: Shaping the Future
+Degree Mill
+Personalized Portal
+Armed Intimidation
+Death and Taxes
+Trojan Horse
+TechnoCo
+Glut Cipher
+Knobkierie
+419: Amoral Scammer
+Falsified Credentials
+Rogue Trading
+Because I Can
+Nyashia
+Consume
+Malia Z0L0K4
+Kill Switch
+Tempus
+Bio Vault
+Sadaka
+Endless EULA
+Sandman
+Amani Senai
+SSO Industries: Fueling Innovation
+City Works Project
+Oduduwa
+Rashida Jaheem
+Freedom Khumalo: Crypto-Anarchist
+Trypano
+Contaminate
+Embezzle
+Slipstream
+Laamb
+Gebrselassie
+Compile
+Logic Bomb
+Jackpot!
+Remote Enforcement
+Kamali 1.0
+Warden Fatuma
+Viral Weaponization
+Envelope
+Mwanza City Grid
+Standard Procedure
+Intake
+Masvingo
+Overseer Matrix
+Zer0
+Musaazi
+Hippo
+Amina
+Diversion of Funds
+PAD Tap
+Reclaim
+Engolo
+Flame-out
+Black Hat
+Kasi String
+NEXT Diamond
+Riot Suppression
+Mti Mwekundu: Life Improved
+Mlinzi
+Better Citizen Program
+Market Forces
+Surveyor
+High-Profile Target
+False Flag
+Nathaniel "Gnat" Hall: One-of-a-Kind
+Divide and Conquer
+Guinea Pig
+Patchwork
+Hijacked Router
+Cradle
+District 99
+Liza Talking Thunder: Prominent Legislator
+Hot Pursuit
+Paragon
+Bankroll
+Tycoon
+Thunder Art Gallery
+Miss Bones
+Akiko Nisei: Head Case
+Insight
+Mind's Eye
+Mâché
+Ika
+Kyuban
+Psych Mike
+Algernon
+Reboot
+Office Supplies
+DJ Fenris
+Sportsmetal: Go Big or Go Home
+Hyperloop Extension
+Meridian
+Gatekeeper
+Divert Power
+Fast Break
+Game Changer
+Giordano Memorial Field
+Saraswati Mnemonics: Endless Exploration
+Jumon
+API-S Keeper Isobel
+Neurostasis
+Otoroshi
+Thimblerig
+Hangeki
+Daruma
+Acme Consulting: The Truth You Need
+Fly on the Wall
+SIU
+Peeping Tom
+Hydra
+Eavesdrop
+Attitude Adjustment
+Arella Salvatore
+The Outfit: Family Owned and Operated
+Broad Daylight
+Drudge Work
+Blockchain
+Formicary
+Building Blocks
+Too Big to Fail
+Under the Bus
+Lady Liberty
+Labor Rights
+Embolus
+Crowdfunding
+Timely Public Release
+Slot Machine
+Border Control
+Watch the World Burn
+Hired Help
+Cyber Bureau: Keeping the Peace
+Isolation
+Demolisher
+Chisel
+Stargate
+Utae
+Climactic Showdown
+Fencer Fueno
+The Nihilist
+Trickster Taka
+Az McCaffrey: Mechanical Prodigy
+Always Have a Backup Plan
+Blueberry!™ Diesel
+Flip Switch
+Lucky Charm
+Masterwork (v37)
+Bukhgalter
+"Baklan" Bochkin
+The Class Act
+Lat: Ethical Freelancer
+In the Groove
+Khusyuk
+Spec Work
+Supercorridor
+Gauss
+Pelangi
+Rezeki
+The Artist
+Direct Access
+Rejig
+Whistleblower
+MirrorMorph: Endless Iteration
+Architect Deployment Test
+Calvin B4L3Y
+Nanoetching Matrix
+Hagen
+Fully Operational
+Red Level Clearance
+Cold Site Server
+Hyoubu Institute: Absolute Clarity
+Project Yagi-Uda
+Sting!
+Public Health Portal
+Storgotic Resonator
+Saisentan
+Complete Image
+Letheia Nisei
+Remastered Edition
+Daily Quest
+Tiered Subscription
+Congratulations!
+Loot Box
+Focus Group
+Game Over
+Increased Drop Rates
+Divested Trust
+SDS Drone Deployment
+Roughneck Repair Squad
+Afshar
+Sandstone
+Trebuchet
+Secure and Protect
+Reduced Service
+Vulnerability Audit
+CSR Campaign
+Rime
+Hoshiko Shiro: Untold Protagonist
+Moshing
+Devil Charm
+Gachapon
+Keiko
+Odore
+Mystic Maemi
+Paladin Poemu
+Bravado
+Boomerang
+Mu Safecracker
+Prognostic Q-Loop
+Swift
+Afterimage
+Makler
+Penumbral Toolkit
+The Back
+Harmony AR Therapy
+Aniccam
+Simulchip
+Cordyceps
+Euler
+Mantle
+Penrose
+Cybertrooper Talut
+Paule's Café
+Buffer Drive
+DreamNet
+Megaprix Qualifier
+Project Vacheron
+Bass CH1R180G4
+Vaporframe Fabricator
+Drafter
+Týr
+NEXT Activation Command
+Scapenet
+Tranquility Home Grid
+Flower Sermon
+Prāna Condenser
+Engram Flush
+Konjin
+Hyoubu Precog Manifold
+Kakurenbo
+La Costa Grid
+GameNET: Where Dreams are Real
+Bellona
+F2P
+Gold Farmer
+Digital Rights Management
+SYNC Rerouting
+Ganked!
+Earth Station: SEA Headquarters
+Transport Monopoly
+Wall to Wall
+Akhet
+Winchester
+Argus Crackdown
+Cayambe Grid
+Cyberdex Sandbox
+NAPD Cordon
+René "Loup" Arcemont: Party Animal
+Wildcat Strike
+Carnivore
+Botulus
+Buzzsaw
+Cleaver
+Fermenter
+Leech
+Cookbook
+Zahya Sadeghi: Versatile Smuggler
+Mutual Favor
+Tread Lightly
+Docklands Pass
+Pennyshaver
+Carmen
+Marjanah
+Tranquilizer
+Red Team
+Tāo Salonga: Telepresence Magician
+Creative Commission
+VRcation
+DZMZ Optimizer
+Pantograph
+Conduit
+Echelon
+Unity
+Telework Contract
+Jailbreak
+Overclock
+T400 Memory Diamond
+Mayfly
+Smartware Distributor
+Verbal Plasticity
+Haas-Bioroid: Precision Design
+Luminal Transubstantiation
+Nico Campaign
+Ansel 1.0
+Brân 1.0
+Seamless Launch
+Sprint
+Manegarm Skunkworks
+Jinteki: Restoring Humanity
+Longevity Serum
+Urtica Cipher
+Diviner
+Karunā
+Hansei Review
+Neurospike
+Anoetic Void
+NBN: Reality Plus
+Tomorrow's Headline
+Spin Doctor
+Funhouse
+Ping
+Predictive Planogram
+Public Trail
+AMAZE Amusements
+Weyland Consortium: Built to Last
+Above the Law
+Clearinghouse
+Ballista
+Pharos
+Government Subsidy
+Retribution
+Malapert Data Vault
+Offworld Office
+Orbital Superiority
+Send a Message
+Superconducting Hub
+Regolith Mining License
+Palisade
+Tithe
+Whitespace
+The Catalyst: Convention Breaker
+The Syndicate: Profit over Principle
+Light the Fire!
+Revolver
+Deep Dive
+Hákarl 1.0
+Anemone
+Vladisibirsk City Grid
+Azef Protocol
+Esâ Afontov: Eco-Insurrectionist
+Chastushka
+Running Hot
+Steelskin Scarring
+Ghosttongue
+Marrow
+Begemot
+Avgustina Ivanovskaya
+The Twinning
+Nyusha "Sable" Sintashta: Symphonic Prodigy
+Carpe Diem
+Pinhole Threading
+PAN-Weave
+Virtuoso
+Cat's Cradle
+Cezve
+Backstitching
+No Free Lunch
+Captain Padma Isbister: Intrepid Explorer
+Into the Depths
+Rigging Up
+Endurance
+Hyperbaric
+Propeller
+Daeg, First Net-Cat
+Environmental Testing
+Stoneship Chart Room
+Élivágar Bifurcation
+Midnight-3 Arcology
+Refuge Campaign
+Trieste Model Bioroids
+Echo
+Wave
+Big Deal
+Blood in the Water
+Regenesis
+Bladderwort
+Moon Pool
+Bathynomus
+Ivik
+Mitosis
+Mavirus
+Pravdivost Consulting: Political Solutions
+Artificial Cryptocrash
+Chekist Scion
+Drago Ivanov
+Ubiquitous Vig
+Mestnichestvo
+Vasilisa
+Backroom Machinations
+Ob Superheavy Logistics: Extract. Export. Excel.
+Svyatogor Excavator
+Envelopment
+Maskirovka
+Stavka
+Extract
+Mutually Assured Destruction
+Trust Operation
+Finality
+Katorga Breakout
+Raindrops Cut Stone
+Time Bomb
+Abaasy
+Hush
+Nga
+Num
+Tsakhia "Bankhar" Gantulga
+Concerto
+Reprise
+Poison Vial
+WAKE Implant v2A-JRJ
+Zenit Chip JZ-2MJ
+Tremolo
+Tunnel Vision
+Asmund Pudlat
+Info Bounty
+Spark of Inspiration
+Hippocampic Mechanocytes
+Basilar Synthgland 2KVJ
+Flux Capacitor
+Nanuq
+Orca
+K2CP Turbine
+World Tree
+Dr. Nuka Vrolyck
+Nova Initiumia: Catalyst & Impetus
+Matryoshka
+Thule Subsea: Safety Below
+Ontological Dependence
+Nightmare Archive
+Bloop
+Pulse
+Distributed Tracing
+Hypoxia
+Djupstad Grid
+Mr. Hendrik
+Issuaq Adaptics: Sustaining Diversity
+Hybrid Release
+Dr. Vientiane Keeling
+Reaper Function
+Hafrún
+Vampyronassa
+Simulation Reset
+Nanisivik Grid
+Freedom of Information
+Post-Truth Dividend
+Gaslight
+Vera Ivanovna Shuyskaya
+Klevetnik
+Unsmiling Tsarevna
+Nonequivalent Exchange
+Shipment from Vladisibirsk
+Regulatory Capture
+Kimberlite Field
+Hostile Architecture
+Superdeep Borehole
+Anvil
+End of the Line
+Yakov Erikovich Avdakov
+ZATO City Grid
+Ampère: Cybernetics For Anyone
+Strike Fund
+The Price
+Solidarity Badge
+Audrey v2
+Banner
+Monkeywrench
+Eru Ayase-Pessoa
+Hannah "Wheels" Pilintra
+Lago Paranoá Shelter
+Mercury: Chrome Libertador
+Chrysopoeian Skimming
+S-Dobrado
+Capybara
+Hermes
+Curupira
+Laser Pointer
+Saci
+Shibboleth
+Debbie "Downtown" Moreira
+Arissana Rocha Nahu: Street Artist
+Joy Ride
+AirbladeX (JSRF Ed.)
+LilyPAD
+Living Mural
+Pichação
+Slap Vandal
+Umbrella
+Beatriz Friere Gonzalez
+Urban Art Vernissage
+Bahia Bands
+Salvo Testing
+Stegodon MK IV
+Wage Workers
+Ablative Barrier
+Jaguarundi
+M.I.C.
+Greasing the Palm
+Vovô Ozetti
+A Teia: IP Recovery
+Fujii Asset Retrieval
+Front Company
+Attini
+Phoneutria
+Tatu-Bola
+Mindscaping
+Adrian Seis
+Daniela Jorge Inácio
+Epiphany Analytica: Nations Undivided
+Oracle Thinktank
+Balanced Coverage
+Behold!
+Federal Fundraising
+Starlit Knight
+Virtual Service Agent
+Oppo Research
+Your Digital Life
+Slash and Burn Agriculture
+Cybersand Harvester
+Tree Line
+Valentão
+Armed Asset Protection
+Pivot
+Angelique Garza Correa
+Tucana
+B-1001
+Sebastião Souza Pessoa: Activist Organizer
+Eye for an Eye
+Privileged Access
+Amanuensis
+The Wizard's Chest
+Boi-tatá
+Heliamphora
+Arruaceiras Crew
+Friend of a Friend
+Manuel Lattes de Moura
+Meeting of Minds
+Window of Opportunity
+Alarm Clock
+Jeitinho
+Cupellation
+Malandragem
+Physarum Entangler
+Amelia Earhart
+Juli Moreira Lee
+Burner
+Spree
+Trick Shot
+Cataloguer
+Coalescence
+Lobisomem
+Muse
+Pressure Spike
+"Pretty" Mary da Silva
+Ashen Epilogue
+Valentina Ferreira Carvalho
+Thunderbolt Armaments: Peace Through Power
+Lightning Laboratory
+Warm Reception
+Working Prototype
+Lycian Multi-Munition
+Sorocaban Blade
+Active Policing
+Corporate Hospitality
+Brasília Government Grid
+See How They Run
+Sisyphus Protocol
+Charlotte Caçador
+Cohort Guidance Program
+Boto
+Cloud Eater
+Tributary
+Bring Them Home
+Kingmaking
+Stoke the Embers
+Janaína "JK" Dumont Kindelán
+Capacitor
+Piranhas
+Seraph
+Sudden Commandment
+The Holo Man
+Nuvem SA: Law of the Land
+Eminent Domain
+The Basalt Spire
+Hearts and Minds
+Descent
+Hammer
+Logjam
+Business As Usual
+Isaac Liberdade
+The Powers That Be

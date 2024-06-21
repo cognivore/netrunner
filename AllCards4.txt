@@ -1,0 +1,1882 @@
+4 Corp Basic Actions
+4 Runner Basic Actions
+4 Corp Click Tracker
+4 Runner Click Tracker
+4 The Shadow: Pulling the Strings
+4 The Masque: Cyber General
+4 Wyvern: Chemically Enhanced
+4 Boris "Syfr" Kovac: Crafty Veteran
+4 Jamie "Bzzz" Micken: Techno Savant
+4 Strategic Innovations: Future Forward
+4 Synthetic Systems: The World Re-imagined
+4 Information Dynamics: All You Need To Know
+4 Fringe Applications: Tomorrow, Today
+4 Noise: Hacker Extraordinaire
+4 Déjà Vu
+4 Demolition Run
+4 Stimhack
+4 Cyberfeeder
+4 Grimoire
+4 Corroder
+4 Datasucker
+4 Djinn
+4 Medium
+4 Mimic
+4 Parasite
+4 Wyrm
+4 Yog.0
+4 Ice Carver
+4 Wyldside
+4 Gabriel Santiago: Consummate Professional
+4 Account Siphon
+4 Easy Mark
+4 Forged Activation Orders
+4 Inside Job
+4 Special Order
+4 Lemuria Codecracker
+4 Desperado
+4 Aurora
+4 Femme Fatale
+4 Ninja
+4 Sneakdoor Beta
+4 Bank Job
+4 Crash Space
+4 Data Dealer
+4 Decoy
+4 Kate "Mac" McCaffrey: Digital Tinker
+4 Diesel
+4 Modded
+4 The Maker's Eye
+4 Tinkering
+4 Akamatsu Mem Chip
+4 Rabbit Hole
+4 The Personal Touch
+4 The Toolbox
+4 Battering Ram
+4 Gordian Blade
+4 Magnum Opus
+4 Net Shield
+4 Pipeline
+4 Aesop's Pawnshop
+4 Sacrificial Construct
+4 Infiltration
+4 Sure Gamble
+4 Crypsis
+4 Access to Globalsec
+4 Armitage Codebusting
+4 Haas-Bioroid: Engineering the Future
+4 Accelerated Beta Test
+4 Adonis Campaign
+4 Aggressive Secretary
+4 Archived Memories
+4 Biotic Labor
+4 Shipment from MirrorMorph
+4 Heimdall 1.0
+4 Ichi 1.0
+4 Viktor 1.0
+4 Rototurret
+4 Corporate Troubleshooter
+4 Experiential Data
+4 Jinteki: Personal Evolution
+4 Nisei MK II
+4 Project Junebug
+4 Snare!
+4 Zaibatsu Loyalty
+4 Neural EMP
+4 Precognition
+4 Cell Portal
+4 Chum
+4 Data Mine
+4 Neural Katana
+4 Wall of Thorns
+4 Akitaro Watanabe
+4 NBN: Making News
+4 AstroScript Pilot Program
+4 Breaking News
+4 Anonymous Tip
+4 Closed Accounts
+4 Psychographics
+4 SEA Source
+4 Ghost Branch
+4 Data Raven
+4 Matrix Analyzer
+4 Tollbooth
+4 Red Herrings
+4 SanSan City Grid
+4 Weyland Consortium: Building a Better World
+4 Hostile Takeover
+4 Posted Bounty
+4 Security Subcontract
+4 Aggressive Negotiation
+4 Beanstalk Royalties
+4 Scorched Earth
+4 Shipment from Kaguya
+4 Archer
+4 Hadrian's Wall
+4 Ice Wall
+4 Shadow
+4 Research Station
+4 Priority Requisition
+4 Private Security Force
+4 Melange Mining Corp.
+4 PAD Campaign
+4 Hedge Fund
+4 Enigma
+4 Hunter
+4 Wall of Static
+4 Whizzard: Master Gamer
+4 Spinal Modem
+4 Imp
+4 Morning Star
+4 Cortez Chip
+4 Peacock
+4 ZU.13 Key Master
+4 The Helpful AI
+4 Plascrete Carapace
+4 Haas-Bioroid: Stronger Together
+4 Mandatory Upgrades
+4 Janus 1.0
+4 Ash 2X3ZB9CY
+4 Braintrust
+4 Snowflake
+4 Restructured Datapool
+4 TMI
+4 Project Atlas
+4 Caduceus
+4 Dracō
+4 Vamp
+4 Liberated Account
+4 Satellite Uplink
+4 e3 Feedback Implants
+4 Compromised Employee
+4 Notoriety
+4 Snowball
+4 Dyson Mem Chip
+4 Encryption Protocol
+4 Sherlock 1.0
+4 Jinteki: Replicating Perfection
+4 Fetal AI
+4 Trick of Light
+4 Sensei
+4 Big Brother
+4 ChiLo City Grid
+4 Power Grid Overload
+4 Amazon Industrial Zone
+4 Executive Retreat
+4 Freelancer
+4 Nerve Agent
+4 Joshua B.
+4 Emergency Shutdown
+4 Muresh Bodysuit
+4 Snitch
+4 Chaos Theory: Wünderkind
+4 Test Run
+4 Dinosaurus
+4 Personal Workshop
+4 Public Sympathy
+4 Project Vitruvius
+4 Viper
+4 Edge of World
+4 Sunset
+4 Marked Accounts
+4 Pop-up Window
+4 Woodcutter
+4 Commercialization
+4 Private Contracts
+4 Chimera
+4 Disrupter
+4 Force of Nature
+4 Scrubber
+4 Doppelgänger
+4 Crescentus
+4 Deus X
+4 All-nighter
+4 Inside Man
+4 Underworld Contact
+4 Green Level Clearance
+4 Hourglass
+4 Dedicated Server
+4 Bullfrog
+4 Uroboros
+4 Net Police
+4 Weyland Consortium: Because We Built It
+4 Government Contracts
+4 Tyrant
+4 Oversight AI
+4 False Lead
+4 Surge
+4 Xanadu
+4 Andromeda: Dispossessed Ristie
+4 Networking
+4 HQ Interface
+4 Pheromones
+4 Quality Time
+4 Replicator
+4 Creeper
+4 Kraken
+4 Kati Jones
+4 Eve Campaign
+4 Rework
+4 Whirlpool
+4 Hokusai Grid
+4 Data Hound
+4 Bernice Mai
+4 Salvage
+4 Simone Diego
+4 Foxfire
+4 Retrieval Run
+4 Darwin
+4 Data Leak Reversal
+4 Faerie
+4 Mr. Li
+4 Indexing
+4 R&D Interface
+4 Deep Thought
+4 New Angeles City Hall
+4 Eli 1.0
+4 Ruhr Valley
+4 Ronin
+4 Midori
+4 NBN: The World is Yours*
+4 Project Beale
+4 Midseason Replacements
+4 Flare
+4 Dedicated Response Team
+4 Burke Bugs
+4 Corporate War
+4 Cerebral Imaging: Infinite Frontiers
+4 Custom Biotics: Engineered for Success
+4 NEXT Design: Guarding the Net
+4 Director Haas' Pet Project
+4 Efficiency Committee
+4 Project Wotan
+4 Sentinel Defense Program
+4 Alix T4LB07
+4 Cerebral Overwriter
+4 Director Haas
+4 Haas Arcology AI
+4 Thomas Haas
+4 Bioroid Efficiency Research
+4 Successful Demonstration
+4 Heimdall 2.0
+4 Howler
+4 Ichi 2.0
+4 Minelayer
+4 Viktor 2.0
+4 Zed 1.0
+4 Awakening Center
+4 Tyr's Hand
+4 Gila Hands Arcology
+4 Levy University
+4 Server Diagnostics
+4 Bastion
+4 Datapike
+4 Rielle "Kit" Peddler: Transhuman
+4 The Professor: Keeper of Knowledge
+4 Exile: Streethawk
+4 Escher
+4 Exploratory Romp
+4 Freelance Coding Contract
+4 Scavenge
+4 Levy AR Lab Access
+4 Monolith
+4 Feedback Filter
+4 Clone Chip
+4 Omni-drive
+4 Atman
+4 Cloak
+4 Dagger
+4 Chakana
+4 Cyber-Cypher
+4 Paricia
+4 Self-modifying Code
+4 Sahasrara
+4 Inti
+4 Professional Contacts
+4 Borrowed Satellite
+4 Ice Analyzer
+4 Dirty Laundry
+4 Daily Casts
+4 Same Old Thing
+4 The Source
+4 Frame Job
+4 Pawn
+4 Rook
+4 Hostage
+4 Gorman Drip v1
+4 Lockpick
+4 False Echo
+4 Motivation
+4 John Masanori
+4 Project Ares
+4 NEXT Bronze
+4 Celebrity Gift
+4 Himitsu-Bako
+4 Character Assassination
+4 Jackson Howard
+4 Invasion of Privacy
+4 Geothermal Fracking
+4 Swarm
+4 Cyberdex Trial
+4 Grim
+4 Bishop
+4 Scheherazade
+4 Hard at Work
+4 Recon
+4 Copycat
+4 Leviathan
+4 Eureka!
+4 Record Reconstructor
+4 Prepaid VoicePAD
+4 Wotan
+4 Hellion Alpha Test
+4 Clone Retirement
+4 Swordsman
+4 Shipment from SanSan
+4 Muckraker
+4 The Cleaners
+4 Elizabeth Mills
+4 Off the Grid
+4 Profiteering
+4 Restructure
+4 Reina Roja: Freedom Fighter
+4 Deep Red
+4 Knight
+4 Running Interference
+4 Expert Schedule Analyzer
+4 Grifter
+4 Torch
+4 Woman in the Red Dress
+4 Raymond Flint
+4 Isabel McGuire
+4 Hudson 1.0
+4 Accelerated Diagnostics
+4 Unorthodox Predictions
+4 Sundew
+4 City Surveillance
+4 Snoop
+4 Ireress
+4 Power Shutdown
+4 Paper Wall
+4 Interns
+4 Keyhole
+4 Activist Support
+4 Lawyer Up
+4 Leverage
+4 Garrote
+4 LLDS Processor
+4 Sharpshooter
+4 Capstone
+4 Starlight Crusade Funding
+4 Rex Campaign
+4 Fenris
+4 Panic Button
+4 Shock!
+4 Tsurugi
+4 TGTBT
+4 Sweeps Week
+4 RSVP
+4 Curtain Wall
+4 Punitive Counterstrike
+4 Veterans Program
+4 Quest Completed
+4 Hemorrhage
+4 Tallie Perrault
+4 Executive Wiretaps
+4 Blackguard
+4 CyberSolutions Mem Chip
+4 Alpha
+4 Omega
+4 Blackmail
+4 Blue Level Clearance
+4 Strongbox
+4 Toshiyuki Sakai
+4 Yagura
+4 Restoring Face
+4 Market Research
+4 Wraparound
+4 GRNDL: Power Unleashed
+4 Vulcan Coverup
+4 GRNDL Refinery
+4 Subliminal Messaging
+4 Singularity
+4 Queen's Gambit
+4 Dyson Fractal Generator
+4 Silencer
+4 Savoir-faire
+4 Fall Guy
+4 Power Nap
+4 Paintbrush
+4 Lucky Find
+4 Gyri Labyrinth
+4 Reclamation Order
+4 Broadcast Square
+4 Corporate Shuffle
+4 Caprice Nisei
+4 Shinobi
+4 Marker
+4 Hive
+4 Witness Tampering
+4 NAPD Contract
+4 Quandary
+4 Harmony Medtech: Biomedical Pioneer
+4 Nisei Division: The Next Generation
+4 Tennin Institute: The Secrets Within
+4 House of Knives
+4 Medical Breakthrough
+4 Philotic Entanglement
+4 The Future Perfect
+4 Chairman Hiro
+4 Mental Health Clinic
+4 Psychic Field
+4 Shi.Kyū
+4 Tenma Line
+4 Cerebral Cast
+4 Medical Research Fundraiser
+4 Mushin No Shin
+4 Inazuma
+4 Komainu
+4 Pup
+4 Shiro
+4 Susanoo-no-Mikoto
+4 NeoTokyo Grid
+4 Tori Hanzō
+4 Plan B
+4 Guard
+4 Rainbow
+4 Diversified Portfolio
+4 Fast Track
+4 Iain Stirling: Retired Spook
+4 Ken "Express" Tenma: Disappeared Clone
+4 Silhouette: Stealth Operative
+4 Calling in Favors
+4 Early Bird
+4 Express Delivery
+4 Feint
+4 Legwork
+4 Planned Assault
+4 Logos
+4 Public Terminal
+4 Unregistered S&W '35
+4 Window
+4 Alias
+4 Breach
+4 Bug
+4 Gingerbread
+4 Grappling Hook
+4 Passport
+4 Push Your Luck
+4 Security Testing
+4 Theophilius Bagbiter
+4 Tri-maf Contact
+4 Mass Install
+4 Q-Coherence Chip
+4 Overmind
+4 Oracle May
+4 Donut Taganes
+4 Domestic Sleepers
+4 NEXT Silver
+4 Lotus Field
+4 Mutate
+4 Near-Earth Hub: Broadcast Center
+4 Primary Transmission Dish
+4 Midway Station Grid
+4 The Root
+4 Taurus
+4 Mother Goddess
+4 Galahad
+4 Bad Times
+4 Cyber Threat
+4 Lamprey
+4 Paper Tripping
+4 Power Tap
+4 Nasir Meidan: Cyber Explorer
+4 Social Engineering
+4 Leprechaun
+4 Eden Shard
+4 The Foundry: Refining the Process
+4 Enhanced Login Protocol
+4 Heinlein Grid
+4 Encrypted Portals
+4 Cerebral Static
+4 Targeted Marketing
+4 Information Overload
+4 Paywall Implementation
+4 Sealed Vault
+4 Eden Fragment
+4 Lag Time
+4 Will-o'-the-Wisp
+4 D4v1d
+4 Scrubbed
+4 Three Steps Ahead
+4 Unscheduled Maintenance
+4 Cache
+4 Net Celebrity
+4 LLDS Energy Regulator
+4 Ghost Runner
+4 IQ
+4 Eliza's Toybox
+4 Kitsune
+4 Port Anson Grid
+4 The News Now Hour
+4 Manhunt
+4 Wendigo
+4 Crisium Grid
+4 Chronos Project
+4 Shattered Remains
+4 Lancelot
+4 Quetzal: Free Spirit
+4 BlacKat
+4 Duggar's
+4 Box-E
+4 The Supplier
+4 Refractor
+4 Order of Sol
+4 Hades Shard
+4 Rachel Beckman
+4 Architect
+4 Peak Efficiency
+4 Labyrinthine Servers
+4 Ashigaru
+4 Mamba
+4 Reversed Accounts
+4 Universal Connectivity Fee
+4 Blue Sun: Powering the Future
+4 Changeling
+4 Reuse
+4 Hades Fragment
+4 Docklands Crackdown
+4 Inject
+4 Origami
+4 Fester
+4 Autoscripter
+4 Switchblade
+4 Trade-In
+4 Astrolabe
+4 Angel Arena
+4 Bifrost Array
+4 Sagittarius
+4 Hostile Infrastructure
+4 Gemini
+4 License Acquisition
+4 Daily Business Show
+4 Superior Cyberwalls
+4 Executive Boot Camp
+4 Lycan
+4 Snatch and Grab
+4 Merlin
+4 Shell Corporation
+4 Ekomind
+4 Cerberus "Cuj.0" H3
+4 Leela Patel: Trained Pragmatist
+4 Cerberus "Rex" H2
+4 Zona Sul Shipping
+4 Cybsoft MacroDrive
+4 Cerberus "Lady" H1
+4 Utopia Shard
+4 Helium-3 Deposit
+4 Errand Boy
+4 IT Department
+4 Markus 1.0
+4 Industrial Genomics: Growing Solutions
+4 Turtlebacks
+4 Shoot the Moon
+4 Troll
+4 Virgo
+4 Utopia Fragment
+4 Excalibur
+4 Self-destruct
+4 Incubator
+4 Ixodidae
+4 Code Siphon
+4 Collective Consciousness
+4 Sage
+4 Bribery
+4 Au Revoir
+4 Earthrise Hotel
+4 Argus Security: Protection Guaranteed
+4 Gagarin Deep Space: Expanding the Horizon
+4 Titan Transnational: Investing In Your Future
+4 Firmware Updates
+4 Glenn Station
+4 Government Takeover
+4 High-Risk Investment
+4 Constellation Protocol
+4 Mark Yale
+4 Space Camp
+4 The Board
+4 Asteroid Belt
+4 Wormhole
+4 Nebula
+4 Orion
+4 Builder
+4 Checkpoint
+4 Fire Wall
+4 Searchlight
+4 Housekeeping
+4 Patch
+4 Traffic Accident
+4 Satellite Grid
+4 The Twins
+4 Sub Boost
+4 Dedicated Technician Team
+4 Cyberdex Virus Suite
+4 Edward Kim: Humanity's Hammer
+4 MaxX: Maximum Punk Rock
+4 Valencia Estevez: The Angel of Cayambe
+4 Amped Up
+4 I've Had Worse
+4 Itinerant Protesters
+4 Showing Off
+4 Wanton Destruction
+4 Day Job
+4 Forked
+4 Knifed
+4 Spooned
+4 Eater
+4 Gravedigger
+4 Hivemind
+4 Progenitor
+4 Archives Interface
+4 Chop Bot 3000
+4 MemStrips
+4 Vigil
+4 Human First
+4 Investigative Journalism
+4 Sacrificial Clone
+4 Stim Dealer
+4 Virus Breeding Ground
+4 Uninstall
+4 Qianju PT
+4 Data Folding
+4 Clot
+4 Paige Piper
+4 Adjusted Chronotype
+4 Spike
+4 Enhanced Vision
+4 Gene Conditioning Shoppe
+4 Synthetic Blood
+4 Traffic Jam
+4 Symmetrical Visage
+4 Brain-Taping Warehouse
+4 NEXT Gold
+4 Jinteki Biotech: Life Imagined
+4 Genetic Resequencing
+4 Cortex Lock
+4 Valley Grid
+4 Bandwidth
+4 Predictive Algorithm
+4 Capital Investors
+4 Negotiator
+4 Tech Startup
+4 Hacktivist Meeting
+4 Off-Campus Apartment
+4 Career Fair
+4 Dorm Computer
+4 Hayley Kaplan: Universal Scholar
+4 Game Day
+4 Comet
+4 Study Guide
+4 London Library
+4 Tyson Observatory
+4 Beach Party
+4 Research Grant
+4 Turing
+4 Crick
+4 Recruiting Trip
+4 Blacklist
+4 Gutenberg
+4 Student Loans
+4 Meru Mati
+4 Breaker Bay Grid
+4 Immolation Script
+4 Skulljack
+4 Turntable
+4 Chrome Parlor
+4 Titanium Ribs
+4 Crowbar
+4 Net-Ready Eyes
+4 Analog Dreamers
+4 Brain Cage
+4 Cybernetics Division: Humanity Upgraded
+4 Self-Destruct Chips
+4 Lab Dog
+4 Oaktown Grid
+4 Ryon Knight
+4 Clairvoyant Monitor
+4 Lockdown
+4 Little Engine
+4 Oaktown Renovation
+4 Corporate Town
+4 Quicksand
+4 Faust
+4 Street Peddler
+4 Armand "Geist" Walker: Tech Lord
+4 Drive By
+4 Forger
+4 Shiv
+4 Gang Sign
+4 Muertos Gang Member
+4 Chameleon
+4 Hyperdriver
+4 Test Ground
+4 Defective Brainchips
+4 Allele Repression
+4 Marcus Batty
+4 Exposé
+4 Pachinko
+4 Underway Renovation
+4 Contract Killer
+4 Spiderweb
+4 Underway Grid
+4 Trope
+4 Spoilers
+4 Drug Dealer
+4 Rolodex
+4 Fan Site
+4 Film Critic
+4 Paparazzi
+4 Ronald Five
+4 Enforcer 1.0
+4 It's a Trap!
+4 An Offer You Can't Refuse
+4 Haarpsichord Studios: Entertainment Unleashed
+4 Award Bait
+4 Explode-a-palooza
+4 Early Premiere
+4 Casting Call
+4 Old Hollywood Grid
+4 Hollywood Renovation
+4 Back Channels
+4 Vanity Project
+4 Power to the People
+4 Surfer
+4 DDoS
+4 Laramy Fisk: Savvy Investor
+4 Fisk Investment Seminar
+4 Bookmark
+4 DaVinci
+4 Wireless Net Pavilion
+4 Cybernetics Court
+4 Team Sponsorship
+4 Chronos Protocol: Selective Mind-mapping
+4 Ancestral Imager
+4 Genetics Pavilion
+4 Franchise City
+4 Product Placement
+4 Worlds Plaza
+4 Public Support
+4 Tour Guide
+4 Expo Grid
+4 The Future is Now
+4 SYNC: Everything, Everywhere
+4 New Angeles Sol: Your News
+4 Spark Agency: Worldswide Reach
+4 15 Minutes
+4 Improved Tracers
+4 Rebranding Team
+4 Quantum Predictive Model
+4 Lily Lockwell
+4 News Team
+4 Shannon Claire
+4 Victoria Jenkins
+4 Reality Threedee
+4 Archangel
+4 News Hound
+4 Resistor
+4 Special Offer
+4 TL;DR
+4 Turnpike
+4 24/7 News Cycle
+4 Ad Blitz
+4 Media Blitz
+4 The All-Seeing I
+4 Surveillance Sweep
+4 Keegan Lane
+4 Rutherford Grid
+4 Global Food Initiative
+4 Launch Campaign
+4 Assassin
+4 Apex: Invasive Predator
+4 Apocalypse
+4 Prey
+4 Heartbeat
+4 Endless Hunger
+4 Harbinger
+4 Hunting Grounds
+4 Wasteland
+4 Adam: Compulsive Hacker
+4 Independent Thinking
+4 Brain Chip
+4 Multithreader
+4 Always Be Running
+4 Dr. Lovegood
+4 Neutralize All Threats
+4 Safety First
+4 Sunny Lebeau: Security Specialist
+4 Security Chip
+4 Security Nexus
+4 GS Striker M1
+4 GS Shrike M2
+4 GS Sherman M3
+4 Globalsec Security Clearance
+4 Jak Sinclair
+4 Employee Strike
+4 Windfall
+4 Technical Writer
+4 Run Amok
+4 Ramujan-reliant 550 BMI
+4 Street Magic
+4 High-Stakes Job
+4 Mongoose
+4 Jesminder Sareen: Girl Behind the Curtain
+4 Maya
+4 Panchatantra
+4 Artist Colony
+4 Chatterjee University
+4 Advanced Concept Hopper
+4 Vikram 1.0
+4 Heritage Committee
+4 Mumbad City Grid
+4 Kala Ghoda Real TV
+4 Interrupt 0
+4 Dedication Ceremony
+4 Mumba Temple
+4 Museum of History
+4 EMP Device
+4 Diwan
+4 CBI Raid
+4 Tech Trader
+4 NetChip
+4 Corporate Scandal
+4 Populist Rally
+4 Advanced Assembly Lines
+4 Lakshmi Smartfabrics
+4 Product Recall
+4 Pālanā Foods: Sustainable Growth
+4 Pālanā Agroplex
+4 Harvester
+4 Remote Data Farm
+4 Disposable HQ
+4 New Construction
+4 Mumbad Construction Co.
+4 Corporate Sales Team
+4 PAD Factory
+4 Political Graffiti
+4 Nero Severn: Information Broker
+4 Reflection
+4 Spy Camera
+4 Political Operative
+4 Sadyojata
+4 "Freedom Through Equality"
+4 Akshara Sareen
+4 Councilman
+4 Voting Machine Initiative
+4 Clone Suffrage Movement
+4 Bio-Ethics Association
+4 Political Dealings
+4 "Clones are not People"
+4 Sensie Actors Union
+4 Commercial Bankers Group
+4 Mumbad City Hall
+4 Bailiff
+4 Surat City Grid
+4 Making an Entrance
+4 Salsette Slums
+4 Exclusive Party
+4 Vamadeva
+4 Brahman
+4 Patron
+4 Sports Hopper
+4 Bazaar
+4 Personality Profiles
+4 Jeeves Model Bioroids
+4 Raman Rai
+4 Upayoga
+4 Aryabhata Tech
+4 Salem's Hospitality
+4 Executive Search Firm
+4 Indian Union Stock Exchange
+4 Cobra
+4 Localized Product Line
+4 Mumbad Virtual Tour
+4 The Noble Path
+4 Emptied Mind
+4 Information Sifting
+4 Out of the Ashes
+4 Liberated Chela
+4 Temple of the Liberated Mind
+4 Rebirth
+4 Guru Davinder
+4 The Turning Wheel
+4 Brainstorm
+4 Ravana 1.0
+4 Dedicated Neural Net
+4 Chetana
+4 Puppet Master
+4 Waiver
+4 Exchange of Information
+4 Red Tape
+4 Consulting Visit
+4 Vanilla
+4 Fear the Masses
+4 Aghora
+4 Bhagat
+4 The Black File
+4 The Price of Freedom
+4 Ankusa
+4 Rigged Results
+4 Magnet
+4 Lateral Growth
+4 Improved Protein Source
+4 Voter Intimidation
+4 Harishchandra Ent.: Where You're the Star
+4 Full Immersion RecStudio
+4 Ibrahim Salem
+4 Navi Mumbai City Grid
+4 Zealous Judge
+4 Election Day
+4 Subcontract
+4 Merger
+4 System Outage
+4 Null: Whistleblower
+4 GPI Net Tap
+4 Hernando Cortez
+4 Mirror
+4 Dai V
+4 Another Day, Another Paycheck
+4 Deuces Wild
+4 Injection Attack
+4 Fairchild 1.0
+4 Sherlock 2.0
+4 Hyoubu Research Facility
+4 Chrysalis
+4 Georgia Emelyov
+4 Watchdog
+4 Hard-Hitting News
+4 NBN: Controlling the Message
+4 Crisis Management
+4 Stock Buy-Back
+4 Sandburg
+4 Credit Crash
+4 Rumor Mill
+4 Nfr
+4 Paperclip
+4 Golden
+4 Temüjin Contract
+4 Khan: Savvy Skiptracer
+4 Data Breach
+4 Algo Trading
+4 Beth Kilrain-Chang
+4 Fairchild 2.0
+4 Aiki
+4 Enforcing Loyalty
+4 Hatchet Job
+4 Special Report
+4 C.I. Fund
+4 Liquidation
+4 Weyland Consortium: Builder of Nations
+4 Financial Collapse
+4 Prisec
+4 Obelus
+4 Black Orchestra
+4 Omar Keung: Conspiracy Theorist
+4 Peregrine
+4 Houdini
+4 Net Mercur
+4 Find the Truth
+4 First Responders
+4 Fairchild 3.0
+4 Ark Lockdown
+4 Hellion Beta Test
+4 Project Kusanagi
+4 DNA Tracker
+4 Jinteki: Potential Unleashed
+4 Alexa Belsky
+4 Observe and Destroy
+4 Service Outage
+4 BOOM!
+4 Door to Door
+4 Scarcity of Resources
+4 En Passant
+4 Frantic Coding
+4 The Gauntlet
+4 Saker
+4 Blockade Runner
+4 Ele "Smoke" Scovak: Cynosure of the Net
+4 Top Hat
+4 Blackstone
+4 Government Investigations
+4 Citadel Sanctuary
+4 Wetwork Refit
+4 Haas-Bioroid: Architects of Tomorrow
+4 Fumiko Yamamori
+4 Hasty Relocation
+4 Data Ward
+4 Drone Screen
+4 Chief Slee
+4 Bulwark
+4 Best Defense
+4 Preemptive Action
+4 MKUltra
+4 On the Lam
+4 Cold Read
+4 Equivocation
+4 Misdirection
+4 Reaver
+4 Interdiction
+4 Baba Yaga
+4 Fairchild
+4 Friends in High Places
+4 Manta Grid
+4 Mind Game
+4 Nihongai Grid
+4 IP Block
+4 Thoth
+4 Anson Rose
+4 Mausolus
+4 Sapper
+4 Show of Force
+4 Enforced Curfew
+4 Şifr
+4 Sūnya
+4 Recon Drone
+4 Tapwrm
+4 Tracker
+4 Aaron Marrón
+4 Encore
+4 Fawkes
+4 Peace in Our Time
+4 Sensor Net Activation
+4 Violet Level Clearance
+4 Chiyashi
+4 Psychokinesis
+4 Net Quarantine
+4 Herald
+4 Veritas
+4 Bryan Stinson
+4 NASX
+4 Macrophage
+4 Tribunal
+4 Pushing the Envelope
+4 Maw
+4 The Archivist
+4 Exploit
+4 Spot the Prey
+4 Bio-Modeled Network
+4 Network Exchange
+4 Mad Dash
+4 NEXT Wave 2
+4 Zed 2.0
+4 Defense Construct
+4 Synth DNA Modification
+4 Kakugo
+4 Net Analytics
+4 SYNC BRE
+4 Jemison Astronautics: Sacrifice. Audacity. Success.
+4 Quarantine System
+4 Oberth Protocol
+4 Khondi Plaza
+4 Signal Jamming
+4 Severnius Stim Implant
+4 Clan Vengeance
+4 Counter Surveillance
+4 Möbius
+4 Los: Data Hijacker
+4 System Seizure
+4 Customized Secretary
+4 Build Script
+4 Seidr Adaptive Barrier
+4 Nerine 2.0
+4 Load Testing
+4 Bloom
+4 Replanting
+4 CPC Generator
+4 Free Lunch
+4 MCA Informant
+4 Clyde Van Rite
+4 Watchtower
+4 Sacrifice
+4 Self-Adapting Code Wall
+4 Berserker
+4 Persephone
+4 Rubicon Switch
+4 Aeneas Informant
+4 Rosetta 2.0
+4 Adjusted Matrix
+4 Dedicated Processor
+4 Inversificator
+4 Dadiana Chacon
+4 NEXT Opal
+4 Bioroid Work Crew
+4 AgInfusion: New Miracles for a New World
+4 Bamboo Dome
+4 Ben Musashi
+4 Authenticator
+4 Henry Phillips
+4 Battlement
+4 Audacity
+4 Red Planet Couriers
+4 Owl
+4 Alice Merchant: Clan Agitator
+4 Jarogniew Mercs
+4 Māui
+4 Bug Out Bag
+4 Keros Mcintyre
+4 Daredevil
+4 Mass-Driver
+4 Warroid Tracker
+4 Loki
+4 Obokata Protocol
+4 Mirāju
+4 Shipment from Tennin
+4 Escalate Vitriol
+4 Reeducation
+4 Traffic Analyzer
+4 Meteor Mining
+4 Standoff
+4 Success
+4 Whampoa Reclamation
+4 Mass Commercialization
+4 Mars for Martians
+4 God of War
+4 Leave No Trace
+4 Rip Deal
+4 Flashbang
+4 Lean and Mean
+4 Maven
+4 Na'Not'K
+4 Bloo Moose
+4 O₂ Shortage
+4 Helheim Servers
+4 Mandatory Seed Replacement
+4 Water Monopoly
+4 Metamorph
+4 Data Loop
+4 Biased Reporting
+4 Open Forum
+4 Tithonium
+4 Transparency Initiative
+4 Rover Algorithm
+4 Mining Accident
+4 Respirocytes
+4 Salvaged Vanadis Armory
+4 Aumakua
+4 Caldera
+4 Diana's Hunt
+4 Reshape
+4 Dummy Box
+4 Corporate Defector
+4 CFC Excavation Contract
+4 MCA Austerity Policy
+4 Restore
+4 Breached Dome
+4 Sand Storm
+4 AR-Enhanced Security
+4 Rolling Brownout
+4 Threat Level Alpha
+4 Priority Construction
+4 Fractal Threat Matrix
+4 Conundrum
+4 Steve Cambridge: Master Grifter
+4 Brute-Force-Hack
+4 Spear Phishing
+4 SYN Attack
+4 Polyhistor
+4 Abagnale
+4 Lustig
+4 Demara
+4 Mammon
+4 Charlatan
+4 Maxwell James
+4 Ayla "Bios" Rahim: Simulant Specialist
+4 Careful Planning
+4 Deep Data Mining
+4 LLDS Memory Diamond
+4 Ubax
+4 Adept
+4 Savant
+4 Egret
+4 Dhegdheer
+4 Levy Advanced Research Lab
+4 Laguna Velasco District
+4 Process Automation
+4 Officer Frank
+4 Dean Lister
+4 Biometric Spoofing
+4 The Shadow Net
+4 Seidr Laboratories: Destiny Defined
+4 Brain Rewiring
+4 Elective Upgrade
+4 Successful Field Test
+4 Estelle Moon
+4 Marilyn Campaign
+4 Eli 2.0
+4 Executive Functioning
+4 Holmegaard
+4 Tapestry
+4 Ultraviolet Clearance
+4 Black Level Clearance
+4 Mason Bellamy
+4 Skorpios Defense Systems: Persuasive Power
+4 Armored Servers
+4 Illicit Sales
+4 Graft
+4 Illegal Arms Factory
+4 Mr. Stone
+4 Bloodletter
+4 Colossus
+4 Hailstorm
+4 Hortum
+4 Hunter Seeker
+4 K. P. Lynn
+4 Paper Trail
+4 Honeyfarm
+4 Long-Term Investment
+4 Weir
+4 IPO
+4 By Any Means
+4 Yusuf
+4 Zamba
+4 Puffer
+4 Lewi Guilherme
+4 Cyberdelia
+4 Upya
+4 Assimilator
+4 Asa Group: Security Through Vigilance
+4 Ikawah Project
+4 Najja 1.0
+4 Gene Splicer
+4 Mganga
+4 Genotyping
+4 Echo Chamber
+4 Self-Growth Program
+4 Calibration Testing
+4 Urban Renewal
+4 Wake Up Call
+4 Reconstruction Contract
+4 Acacia
+4 Plague
+4 Credit Kiting
+4 Wari
+4 Kabonesa Wu: Netspace Thrillseeker
+4 Takobi
+4 Kongamato
+4 Emergent Creativity
+4 RNG Key
+4 Nightdancer
+4 Jinja City Grid
+4 Aimor
+4 Bacterial Programming
+4 Jua
+4 Threat Assessment
+4 Economic Warfare
+4 Forced Connection
+4 SSL Endorsement
+4 NGO Front
+4 Distract the Masses
+4 eXer
+4 Friday Chip
+4 Crypt
+4 Corporate "Grant"
+4 No One Home
+4 Marathon
+4 Gbahali
+4 White Hat
+4 Kuwinda K4H1U3
+4 NEXT Sapphire
+4 Anansi
+4 Code Replicator
+4 Reverse Infection
+4 Azmari EdTech: Shaping the Future
+4 Degree Mill
+4 Personalized Portal
+4 Armed Intimidation
+4 Death and Taxes
+4 Trojan Horse
+4 TechnoCo
+4 Glut Cipher
+4 Knobkierie
+4 419: Amoral Scammer
+4 Falsified Credentials
+4 Rogue Trading
+4 Because I Can
+4 Nyashia
+4 Consume
+4 Malia Z0L0K4
+4 Kill Switch
+4 Tempus
+4 Bio Vault
+4 Sadaka
+4 Endless EULA
+4 Sandman
+4 Amani Senai
+4 SSO Industries: Fueling Innovation
+4 City Works Project
+4 Oduduwa
+4 Rashida Jaheem
+4 Freedom Khumalo: Crypto-Anarchist
+4 Trypano
+4 Contaminate
+4 Embezzle
+4 Slipstream
+4 Laamb
+4 Gebrselassie
+4 Compile
+4 Logic Bomb
+4 Jackpot!
+4 Remote Enforcement
+4 Kamali 1.0
+4 Warden Fatuma
+4 Viral Weaponization
+4 Envelope
+4 Mwanza City Grid
+4 Standard Procedure
+4 Intake
+4 Masvingo
+4 Overseer Matrix
+4 Zer0
+4 Musaazi
+4 Hippo
+4 Amina
+4 Diversion of Funds
+4 PAD Tap
+4 Reclaim
+4 Engolo
+4 Flame-out
+4 Black Hat
+4 Kasi String
+4 NEXT Diamond
+4 Riot Suppression
+4 Mti Mwekundu: Life Improved
+4 Mlinzi
+4 Better Citizen Program
+4 Market Forces
+4 Surveyor
+4 High-Profile Target
+4 False Flag
+4 Nathaniel "Gnat" Hall: One-of-a-Kind
+4 Divide and Conquer
+4 Guinea Pig
+4 Patchwork
+4 Hijacked Router
+4 Cradle
+4 District 99
+4 Liza Talking Thunder: Prominent Legislator
+4 Hot Pursuit
+4 Paragon
+4 Bankroll
+4 Tycoon
+4 Thunder Art Gallery
+4 Miss Bones
+4 Akiko Nisei: Head Case
+4 Insight
+4 Mind's Eye
+4 Mâché
+4 Ika
+4 Kyuban
+4 Psych Mike
+4 Algernon
+4 Reboot
+4 Office Supplies
+4 DJ Fenris
+4 Sportsmetal: Go Big or Go Home
+4 Hyperloop Extension
+4 Meridian
+4 Gatekeeper
+4 Divert Power
+4 Fast Break
+4 Game Changer
+4 Giordano Memorial Field
+4 Saraswati Mnemonics: Endless Exploration
+4 Jumon
+4 API-S Keeper Isobel
+4 Neurostasis
+4 Otoroshi
+4 Thimblerig
+4 Hangeki
+4 Daruma
+4 Acme Consulting: The Truth You Need
+4 Fly on the Wall
+4 SIU
+4 Peeping Tom
+4 Hydra
+4 Eavesdrop
+4 Attitude Adjustment
+4 Arella Salvatore
+4 The Outfit: Family Owned and Operated
+4 Broad Daylight
+4 Drudge Work
+4 Blockchain
+4 Formicary
+4 Building Blocks
+4 Too Big to Fail
+4 Under the Bus
+4 Lady Liberty
+4 Labor Rights
+4 Embolus
+4 Crowdfunding
+4 Timely Public Release
+4 Slot Machine
+4 Border Control
+4 Watch the World Burn
+4 Hired Help
+4 Cyber Bureau: Keeping the Peace
+4 Isolation
+4 Demolisher
+4 Chisel
+4 Stargate
+4 Utae
+4 Climactic Showdown
+4 Fencer Fueno
+4 The Nihilist
+4 Trickster Taka
+4 Az McCaffrey: Mechanical Prodigy
+4 Always Have a Backup Plan
+4 Blueberry!™ Diesel
+4 Flip Switch
+4 Lucky Charm
+4 Masterwork (v37)
+4 Bukhgalter
+4 "Baklan" Bochkin
+4 The Class Act
+4 Lat: Ethical Freelancer
+4 In the Groove
+4 Khusyuk
+4 Spec Work
+4 Supercorridor
+4 Gauss
+4 Pelangi
+4 Rezeki
+4 The Artist
+4 Direct Access
+4 Rejig
+4 Whistleblower
+4 MirrorMorph: Endless Iteration
+4 Architect Deployment Test
+4 Calvin B4L3Y
+4 Nanoetching Matrix
+4 Hagen
+4 Fully Operational
+4 Red Level Clearance
+4 Cold Site Server
+4 Hyoubu Institute: Absolute Clarity
+4 Project Yagi-Uda
+4 Sting!
+4 Public Health Portal
+4 Storgotic Resonator
+4 Saisentan
+4 Complete Image
+4 Letheia Nisei
+4 Remastered Edition
+4 Daily Quest
+4 Tiered Subscription
+4 Congratulations!
+4 Loot Box
+4 Focus Group
+4 Game Over
+4 Increased Drop Rates
+4 Divested Trust
+4 SDS Drone Deployment
+4 Roughneck Repair Squad
+4 Afshar
+4 Sandstone
+4 Trebuchet
+4 Secure and Protect
+4 Reduced Service
+4 Vulnerability Audit
+4 CSR Campaign
+4 Rime
+4 Hoshiko Shiro: Untold Protagonist
+4 Moshing
+4 Devil Charm
+4 Gachapon
+4 Keiko
+4 Odore
+4 Mystic Maemi
+4 Paladin Poemu
+4 Bravado
+4 Boomerang
+4 Mu Safecracker
+4 Prognostic Q-Loop
+4 Swift
+4 Afterimage
+4 Makler
+4 Penumbral Toolkit
+4 The Back
+4 Harmony AR Therapy
+4 Aniccam
+4 Simulchip
+4 Cordyceps
+4 Euler
+4 Mantle
+4 Penrose
+4 Cybertrooper Talut
+4 Paule's Café
+4 Buffer Drive
+4 DreamNet
+4 Megaprix Qualifier
+4 Project Vacheron
+4 Bass CH1R180G4
+4 Vaporframe Fabricator
+4 Drafter
+4 Týr
+4 NEXT Activation Command
+4 Scapenet
+4 Tranquility Home Grid
+4 Flower Sermon
+4 Prāna Condenser
+4 Engram Flush
+4 Konjin
+4 Hyoubu Precog Manifold
+4 Kakurenbo
+4 La Costa Grid
+4 GameNET: Where Dreams are Real
+4 Bellona
+4 F2P
+4 Gold Farmer
+4 Digital Rights Management
+4 SYNC Rerouting
+4 Ganked!
+4 Earth Station: SEA Headquarters
+4 Transport Monopoly
+4 Wall to Wall
+4 Akhet
+4 Winchester
+4 Argus Crackdown
+4 Cayambe Grid
+4 Cyberdex Sandbox
+4 NAPD Cordon
+4 René "Loup" Arcemont: Party Animal
+4 Wildcat Strike
+4 Carnivore
+4 Botulus
+4 Buzzsaw
+4 Cleaver
+4 Fermenter
+4 Leech
+4 Cookbook
+4 Zahya Sadeghi: Versatile Smuggler
+4 Mutual Favor
+4 Tread Lightly
+4 Docklands Pass
+4 Pennyshaver
+4 Carmen
+4 Marjanah
+4 Tranquilizer
+4 Red Team
+4 Tāo Salonga: Telepresence Magician
+4 Creative Commission
+4 VRcation
+4 DZMZ Optimizer
+4 Pantograph
+4 Conduit
+4 Echelon
+4 Unity
+4 Telework Contract
+4 Jailbreak
+4 Overclock
+4 T400 Memory Diamond
+4 Mayfly
+4 Smartware Distributor
+4 Verbal Plasticity
+4 Haas-Bioroid: Precision Design
+4 Luminal Transubstantiation
+4 Nico Campaign
+4 Ansel 1.0
+4 Brân 1.0
+4 Seamless Launch
+4 Sprint
+4 Manegarm Skunkworks
+4 Jinteki: Restoring Humanity
+4 Longevity Serum
+4 Urtica Cipher
+4 Diviner
+4 Karunā
+4 Hansei Review
+4 Neurospike
+4 Anoetic Void
+4 NBN: Reality Plus
+4 Tomorrow's Headline
+4 Spin Doctor
+4 Funhouse
+4 Ping
+4 Predictive Planogram
+4 Public Trail
+4 AMAZE Amusements
+4 Weyland Consortium: Built to Last
+4 Above the Law
+4 Clearinghouse
+4 Ballista
+4 Pharos
+4 Government Subsidy
+4 Retribution
+4 Malapert Data Vault
+4 Offworld Office
+4 Orbital Superiority
+4 Send a Message
+4 Superconducting Hub
+4 Regolith Mining License
+4 Palisade
+4 Tithe
+4 Whitespace
+4 The Catalyst: Convention Breaker
+4 The Syndicate: Profit over Principle
+4 Light the Fire!
+4 Revolver
+4 Deep Dive
+4 Hákarl 1.0
+4 Anemone
+4 Vladisibirsk City Grid
+4 Azef Protocol
+4 Esâ Afontov: Eco-Insurrectionist
+4 Chastushka
+4 Running Hot
+4 Steelskin Scarring
+4 Ghosttongue
+4 Marrow
+4 Begemot
+4 Avgustina Ivanovskaya
+4 The Twinning
+4 Nyusha "Sable" Sintashta: Symphonic Prodigy
+4 Carpe Diem
+4 Pinhole Threading
+4 PAN-Weave
+4 Virtuoso
+4 Cat's Cradle
+4 Cezve
+4 Backstitching
+4 No Free Lunch
+4 Captain Padma Isbister: Intrepid Explorer
+4 Into the Depths
+4 Rigging Up
+4 Endurance
+4 Hyperbaric
+4 Propeller
+4 Daeg, First Net-Cat
+4 Environmental Testing
+4 Stoneship Chart Room
+4 Élivágar Bifurcation
+4 Midnight-3 Arcology
+4 Refuge Campaign
+4 Trieste Model Bioroids
+4 Echo
+4 Wave
+4 Big Deal
+4 Blood in the Water
+4 Regenesis
+4 Bladderwort
+4 Moon Pool
+4 Bathynomus
+4 Ivik
+4 Mitosis
+4 Mavirus
+4 Pravdivost Consulting: Political Solutions
+4 Artificial Cryptocrash
+4 Chekist Scion
+4 Drago Ivanov
+4 Ubiquitous Vig
+4 Mestnichestvo
+4 Vasilisa
+4 Backroom Machinations
+4 Ob Superheavy Logistics: Extract. Export. Excel.
+4 Svyatogor Excavator
+4 Envelopment
+4 Maskirovka
+4 Stavka
+4 Extract
+4 Mutually Assured Destruction
+4 Trust Operation
+4 Finality
+4 Katorga Breakout
+4 Raindrops Cut Stone
+4 Time Bomb
+4 Abaasy
+4 Hush
+4 Nga
+4 Num
+4 Tsakhia "Bankhar" Gantulga
+4 Concerto
+4 Reprise
+4 Poison Vial
+4 WAKE Implant v2A-JRJ
+4 Zenit Chip JZ-2MJ
+4 Tremolo
+4 Tunnel Vision
+4 Asmund Pudlat
+4 Info Bounty
+4 Spark of Inspiration
+4 Hippocampic Mechanocytes
+4 Basilar Synthgland 2KVJ
+4 Flux Capacitor
+4 Nanuq
+4 Orca
+4 K2CP Turbine
+4 World Tree
+4 Dr. Nuka Vrolyck
+4 Nova Initiumia: Catalyst & Impetus
+4 Matryoshka
+4 Thule Subsea: Safety Below
+4 Ontological Dependence
+4 Nightmare Archive
+4 Bloop
+4 Pulse
+4 Distributed Tracing
+4 Hypoxia
+4 Djupstad Grid
+4 Mr. Hendrik
+4 Issuaq Adaptics: Sustaining Diversity
+4 Hybrid Release
+4 Dr. Vientiane Keeling
+4 Reaper Function
+4 Hafrún
+4 Vampyronassa
+4 Simulation Reset
+4 Nanisivik Grid
+4 Freedom of Information
+4 Post-Truth Dividend
+4 Gaslight
+4 Vera Ivanovna Shuyskaya
+4 Klevetnik
+4 Unsmiling Tsarevna
+4 Nonequivalent Exchange
+4 Shipment from Vladisibirsk
+4 Regulatory Capture
+4 Kimberlite Field
+4 Hostile Architecture
+4 Superdeep Borehole
+4 Anvil
+4 End of the Line
+4 Yakov Erikovich Avdakov
+4 ZATO City Grid
+4 Ampère: Cybernetics For Anyone
+4 Strike Fund
+4 The Price
+4 Solidarity Badge
+4 Audrey v2
+4 Banner
+4 Monkeywrench
+4 Eru Ayase-Pessoa
+4 Hannah "Wheels" Pilintra
+4 Lago Paranoá Shelter
+4 Mercury: Chrome Libertador
+4 Chrysopoeian Skimming
+4 S-Dobrado
+4 Capybara
+4 Hermes
+4 Curupira
+4 Laser Pointer
+4 Saci
+4 Shibboleth
+4 Debbie "Downtown" Moreira
+4 Arissana Rocha Nahu: Street Artist
+4 Joy Ride
+4 AirbladeX (JSRF Ed.)
+4 LilyPAD
+4 Living Mural
+4 Pichação
+4 Slap Vandal
+4 Umbrella
+4 Beatriz Friere Gonzalez
+4 Urban Art Vernissage
+4 Bahia Bands
+4 Salvo Testing
+4 Stegodon MK IV
+4 Wage Workers
+4 Ablative Barrier
+4 Jaguarundi
+4 M.I.C.
+4 Greasing the Palm
+4 Vovô Ozetti
+4 A Teia: IP Recovery
+4 Fujii Asset Retrieval
+4 Front Company
+4 Attini
+4 Phoneutria
+4 Tatu-Bola
+4 Mindscaping
+4 Adrian Seis
+4 Daniela Jorge Inácio
+4 Epiphany Analytica: Nations Undivided
+4 Oracle Thinktank
+4 Balanced Coverage
+4 Behold!
+4 Federal Fundraising
+4 Starlit Knight
+4 Virtual Service Agent
+4 Oppo Research
+4 Your Digital Life
+4 Slash and Burn Agriculture
+4 Cybersand Harvester
+4 Tree Line
+4 Valentão
+4 Armed Asset Protection
+4 Pivot
+4 Angelique Garza Correa
+4 Tucana
+4 B-1001
+4 Sebastião Souza Pessoa: Activist Organizer
+4 Eye for an Eye
+4 Privileged Access
+4 Amanuensis
+4 The Wizard's Chest
+4 Boi-tatá
+4 Heliamphora
+4 Arruaceiras Crew
+4 Friend of a Friend
+4 Manuel Lattes de Moura
+4 Meeting of Minds
+4 Window of Opportunity
+4 Alarm Clock
+4 Jeitinho
+4 Cupellation
+4 Malandragem
+4 Physarum Entangler
+4 Amelia Earhart
+4 Juli Moreira Lee
+4 Burner
+4 Spree
+4 Trick Shot
+4 Cataloguer
+4 Coalescence
+4 Lobisomem
+4 Muse
+4 Pressure Spike
+4 "Pretty" Mary da Silva
+4 Ashen Epilogue
+4 Valentina Ferreira Carvalho
+4 Thunderbolt Armaments: Peace Through Power
+4 Lightning Laboratory
+4 Warm Reception
+4 Working Prototype
+4 Lycian Multi-Munition
+4 Sorocaban Blade
+4 Active Policing
+4 Corporate Hospitality
+4 Brasília Government Grid
+4 See How They Run
+4 Sisyphus Protocol
+4 Charlotte Caçador
+4 Cohort Guidance Program
+4 Boto
+4 Cloud Eater
+4 Tributary
+4 Bring Them Home
+4 Kingmaking
+4 Stoke the Embers
+4 Janaína "JK" Dumont Kindelán
+4 Capacitor
+4 Piranhas
+4 Seraph
+4 Sudden Commandment
+4 The Holo Man
+4 Nuvem SA: Law of the Land
+4 Eminent Domain
+4 The Basalt Spire
+4 Hearts and Minds
+4 Descent
+4 Hammer
+4 Logjam
+4 Business As Usual
+4 Isaac Liberdade
+4 The Powers That Be

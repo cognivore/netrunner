@@ -1,0 +1,153 @@
+4 Corp Basic Actions
+4 Runner Basic Actions
+4 Corp Click Tracker
+4 Runner Click Tracker
+4 The Shadow: Pulling the Strings
+4 The Masque: Cyber General
+4 Wyvern: Chemically Enhanced
+4 Boris "Syfr" Kovac: Crafty Veteran
+4 Jamie "Bzzz" Micken: Techno Savant
+4 Strategic Innovations: Future Forward
+4 Synthetic Systems: The World Re-imagined
+4 Information Dynamics: All You Need To Know
+4 Fringe Applications: Tomorrow, Today
+4 Noise: Hacker Extraordinaire
+4 Déjà Vu
+4 Demolition Run
+4 Stimhack
+4 Cyberfeeder
+4 Grimoire
+4 Corroder
+4 Datasucker
+4 Djinn
+4 Medium
+4 Mimic
+4 Parasite
+4 Wyrm
+4 Yog.0
+4 Ice Carver
+4 Wyldside
+4 Gabriel Santiago: Consummate Professional
+4 Account Siphon
+4 Easy Mark
+4 Forged Activation Orders
+4 Inside Job
+4 Special Order
+4 Lemuria Codecracker
+4 Desperado
+4 Aurora
+4 Femme Fatale
+4 Ninja
+4 Sneakdoor Beta
+4 Bank Job
+4 Crash Space
+4 Data Dealer
+4 Decoy
+4 Kate "Mac" McCaffrey: Digital Tinker
+4 Diesel
+4 Modded
+4 The Maker's Eye
+4 Tinkering
+4 Akamatsu Mem Chip
+4 Rabbit Hole
+4 The Personal Touch
+4 The Toolbox
+4 Battering Ram
+4 Gordian Blade
+4 Magnum Opus
+4 Net Shield
+4 Pipeline
+4 Aesop's Pawnshop
+4 Sacrificial Construct
+4 Infiltration
+4 Sure Gamble
+4 Crypsis
+4 Access to Globalsec
+4 Armitage Codebusting
+4 Haas-Bioroid: Engineering the Future
+4 Accelerated Beta Test
+4 Adonis Campaign
+4 Aggressive Secretary
+4 Archived Memories
+4 Biotic Labor
+4 Shipment from MirrorMorph
+4 Heimdall 1.0
+4 Ichi 1.0
+4 Viktor 1.0
+4 Rototurret
+4 Corporate Troubleshooter
+4 Experiential Data
+4 Jinteki: Personal Evolution
+4 Nisei MK II
+4 Project Junebug
+4 Snare!
+4 Zaibatsu Loyalty
+4 Neural EMP
+4 Precognition
+4 Cell Portal
+4 Chum
+4 Data Mine
+4 Neural Katana
+4 Wall of Thorns
+4 Akitaro Watanabe
+4 NBN: Making News
+4 AstroScript Pilot Program
+4 Breaking News
+4 Anonymous Tip
+4 Closed Accounts
+4 Psychographics
+4 SEA Source
+4 Ghost Branch
+4 Data Raven
+4 Matrix Analyzer
+4 Tollbooth
+4 Red Herrings
+4 SanSan City Grid
+4 Weyland Consortium: Building a Better World
+4 Hostile Takeover
+4 Posted Bounty
+4 Security Subcontract
+4 Aggressive Negotiation
+4 Beanstalk Royalties
+4 Scorched Earth
+4 Shipment from Kaguya
+4 Archer
+4 Hadrian's Wall
+4 Ice Wall
+4 Shadow
+4 Research Station
+4 Priority Requisition
+4 Private Security Force
+4 Melange Mining Corp.
+4 PAD Campaign
+4 Hedge Fund
+4 Enigma
+4 Hunter
+4 Wall of Static
+4 Whizzard: Master Gamer
+4 Spinal Modem
+4 Imp
+4 Morning Star
+4 Cortez Chip
+4 Peacock
+4 ZU.13 Key Master
+4 The Helpful AI
+4 Plascrete Carapace
+4 Haas-Bioroid: Stronger Together
+4 Mandatory Upgrades
+4 Janus 1.0
+4 Ash 2X3ZB9CY
+4 Braintrust
+4 Snowflake
+4 Restructured Datapool
+4 TMI
+4 Project Atlas
+4 Caduceus
+4 Dracō
+4 Vamp
+4 Liberated Account
+4 Satellite Uplink
+4 e3 Feedback Implants
+4 Compromised Employee
+4 Notoriety
+4 Snowball
